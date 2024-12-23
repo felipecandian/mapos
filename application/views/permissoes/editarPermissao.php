@@ -320,7 +320,7 @@
                         <div class="widget-title">
                             <a data-parent="#collapse-group" href="#collapseGFour" data-toggle="collapse">
                                 <span><i class='bx bx-spreadsheet icon-cli' ></i></span>
-                                <h5 style="padding-left: 28px">Ordens de Serviço</h5>
+                                <h5 style="padding-left: 28px">Ordens de Demandas</h5>
                                 <span><i class='bx bx-chevron-right icon-clic'></i></span>
                             </a>
                         </div>
@@ -339,7 +339,7 @@
                                                     echo 'checked';
                                                 }
                                             }?> name="vOs" class="marcar" type="checkbox" value="1" />
-                                            <span class="lbl"> Visualizar OS</span>
+                                            <span class="lbl"> Visualizar Demanda</span>
                                         </label>
                                     </td>
                                     <td>

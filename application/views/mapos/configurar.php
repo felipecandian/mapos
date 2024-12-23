@@ -288,7 +288,7 @@
                                     <option value="emitente" <?= $configuration['os_notification'] == 'emitente' ? 'selected' : ''; ?>>Somente o Emitente</option>
                                     <option value="nenhum" <?= $configuration['os_notification'] == 'nenhum' ? 'selected' : ''; ?>>Não Notificar</option>
                                 </select>
-                                <span class="help-inline">Selecione a opção de notificação por e-mail no cadastro de OS.</span>
+                                <span class="help-inline">Selecione a opção de notificação por e-mail no cadastro da demanda.</span>
                             </div>
                         </div>
                         <div class="control-group">
@@ -298,7 +298,7 @@
                                     <option value="1">Ativar</option>
                                     <option value="0" <?= $configuration['email_automatico'] == '0' ? 'selected' : ''; ?>>Desativar</option>
                                 </select>
-                                <span class="help-inline">Ativar ou Desativar a opção de envio de e-mail automático no cadastro de OS.</span>
+                                <span class="help-inline">Ativar ou Desativar a opção de envio de e-mail automático no cadastro da demanda.</span>
                             </div>
                         </div>
                         <div class="control-group">

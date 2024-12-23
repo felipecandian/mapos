@@ -2,7 +2,7 @@
     <div class="widget-title" style="margin: 0;font-size: 1.1em">
         <ul class="nav nav-tabs">
             <li class="active"><a data-toggle="tab" href="#tab1">Dados do Cliente</a></li>
-            <li><a data-toggle="tab" href="#tab2">Ordens de Serviço</a></li>
+            <li><a data-toggle="tab" href="#tab2">Ordens de Demandas</a></li>
             <li><a data-toggle="tab" href="#tab3">Vendas</a></li>
         </ul>
     </div>

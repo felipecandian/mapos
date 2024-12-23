@@ -10,12 +10,12 @@ $config['app_version'] = '4.49.0';
 /**
  * Nome do sistema
  */
-$config['app_name'] = $_ENV['APP_NAME'] ?? 'Map-OS';
+$config['app_name'] = $_ENV['APP_NAME'] ?? 'KRZ Clientes';
 
 /**
  * Descrição do sistema
  */
-$config['app_subname'] = $_ENV['APP_SUBNAME'] ?? 'Sistema de Controle de Ordens de Serviço';
+$config['app_subname'] = $_ENV['APP_SUBNAME'] ?? 'Sistema de Controle de Ordens de Demandas';
 
 /**
  * Definição da hora local.

@@ -89,8 +89,8 @@
                         echo 'active';
                     }; ?>">
                         <a class="tip-bottom" title="" href="<?= site_url('os') ?>"><i class='bx bx-file iconX'></i>
-                            <span class="title">Ordens de Serviço</span>
-                            <span class="title-tooltip">Ordens</span>
+                            <span class="title">Ordens de Demandas</span>
+                            <span class="title-tooltip">Ordens de demanda</span>
                         </a>
                     </li>
                 <?php } ?>

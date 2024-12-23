@@ -161,7 +161,7 @@
                 <span class="icon">
                     <i class="fas fa-diagnoses"></i>
                 </span>
-                <h5>Ordens de Serviço</h5>
+                <h5>Ordens de Demandas</h5>
             </div>
             <div class="widget-content nopadding tab-content">
                 <table class="table table-bordered ">

@@ -9,7 +9,7 @@
                 </div>
             </a>
             <a href="<?php echo base_url() ?>index.php/mine/os">
-                <div style="font-size: 1.2em" class="numbers">Ordens de Serviço</div>
+                <div style="font-size: 1.2em" class="numbers">Ordens de Demandas</div>
             </a>
         </li>
 
@@ -49,7 +49,7 @@
     <div class="widget-box">
         <div class="widget-title" style="margin: -20px 0 0">
             <span class="icon"><i class="fas fa-signal"></i></span>
-            <h5>Últimas Ordens de Serviço</h5>
+            <h5>Últimas demandas solicitadas</h5>
         </div>
         <div class="widget-content">
             <table id="tabela" class="table table-bordered">

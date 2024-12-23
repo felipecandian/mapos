@@ -20,7 +20,7 @@ class OsController extends REST_Controller
         if (! $this->permission->checkPermission($this->logged_user()->level, 'vOs')) {
             $this->response([
                 'status' => false,
-                'message' => 'Você não está autorizado a Visualizar Ordens de Serviços',
+                'message' => 'Você não está autorizado a Visualizar Ordens de Demandas',
             ], REST_Controller::HTTP_UNAUTHORIZED);
         }
 
@@ -90,7 +90,7 @@ class OsController extends REST_Controller
 
         $this->response([
             'status' => true,
-            'message' => 'Detalhes da OS',
+            'message' => 'Detalhes da demanda',
             'result' => $os,
         ], REST_Controller::HTTP_OK);
     }

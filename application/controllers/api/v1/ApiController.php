@@ -45,7 +45,7 @@ class ApiController extends REST_Controller
         if (! $this->permission->checkPermission($this->logged_user()->level, 'vOs')) {
             $this->response([
                 'status' => false,
-                'message' => 'Você não está autorizado a Visualizar OSs',
+                'message' => 'Você não está autorizado a Visualizar Demanda',
             ], REST_Controller::HTTP_UNAUTHORIZED);
         }
 
@@ -134,7 +134,7 @@ class ApiController extends REST_Controller
 
         $this->response([
             'status' => true,
-            'message' => 'Dados do Map-OS',
+            'message' => 'Dados do KRZ Clientes',
             'result' => $result,
         ], REST_Controller::HTTP_OK);
     }

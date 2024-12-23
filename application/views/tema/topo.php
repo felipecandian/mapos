@@ -2,7 +2,7 @@
 <html lang="pt-br">
 
 <head>
-  <title><?= $configuration['app_name'] ?: 'Map-OS' ?></title>
+  <title><?= $configuration['app_name'] ?: 'KRZ Clientes' ?></title>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="csrf-token-name" content="<?= config_item("csrf_token_name") ?>">
@@ -93,7 +93,7 @@
             <li><a href="<?= site_url('relatorios/clientes') ?>">Clientes</a></li>
            <!-- Produtos <li><a href="<?= site_url('relatorios/produtos') ?>">Produtos</a></li> -->
             <li><a href="<?= site_url('relatorios/servicos') ?>">Serviços</a></li>
-            <li><a href="<?= site_url('relatorios/os') ?>">Ordens de Serviço</a></li>
+            <li><a href="<?= site_url('relatorios/os') ?>">Ordens de Demandas</a></li>
             <li><a href="<?= site_url('relatorios/vendas') ?>">Vendas</a></li>
             <li><a href="<?= site_url('relatorios/financeiro') ?>">Financeiro</a></li>
             <!-- SKU <li><a href="<?= site_url('relatorios/sku') ?>">SKU</a></li> -->

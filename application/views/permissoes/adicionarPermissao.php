@@ -171,7 +171,7 @@
                                             <td>
                                                 <label>
                                                     <input name="vOs" class="marcar" type="checkbox" checked="checked" value="1" />
-                                                    <span class="lbl"> Visualizar OS</span>
+                                                    <span class="lbl"> Visualizar Demanda</span>
                                                 </label>
                                             </td>
                                             <td>

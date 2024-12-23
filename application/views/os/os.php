@@ -12,7 +12,7 @@
             <span class="icon">
                 <i class="fas fa-diagnoses"></i>
             </span>
-            <h5>Ordens de Serviço</h5>
+            <h5>Ordens de Demandas</h5>
         </div>
     <div class="span12" style="margin-left: 0">
         <form method="get" action="<?php echo base_url(); ?>index.php/os/gerenciar">

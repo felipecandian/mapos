@@ -18,7 +18,7 @@ if (!$results) {
                 <span class="icon">
                     <i class="fas fa-diagnoses"></i>
                 </span>
-                <h5>Ordens de Serviço</h5>
+                <h5>Ordens de Demandas</h5>
 
             </div>
 
@@ -58,7 +58,7 @@ if (!$results) {
                 <span class="icon">
                     <i class="fas fa-diagnoses"></i>
                 </span>
-                <h5>Ordens de Serviço</h5>
+                <h5>Ordens de Demandas</h5>
 
             </div>
 

@@ -20,8 +20,8 @@
                             <span class="button__icon"><i class='bx bx-dollar'></i></span> <span class="button__text">Faturar</span>
                         </a>
                     <?php } ?>
-                    <a title="Visualizar OS" class="button btn btn-primary" href="<?php echo site_url() ?>/os/visualizar/<?php echo $result->idOs; ?>">
-                        <span class="button__icon"><i class="bx bx-show"></i></span><span class="button__text">Visualizar OS</span>
+                    <a title="Visualizar Demanda" class="button btn btn-primary" href="<?php echo site_url() ?>/os/visualizar/<?php echo $result->idOs; ?>">
+                        <span class="button__icon"><i class="bx bx-show"></i></span><span class="button__text">Visualizar Demanda</span>
                     </a>
                     <div class="button-container">
                         <a target="_blank" title="Imprimir Ordem de Serviço" class="button btn btn-mini btn-inverse">
@@ -60,7 +60,7 @@
             <div class="widget-content nopadding tab-content">
                 <div class="span12" id="divProdutosServicos" style=" margin-left: 0">
                     <ul class="nav nav-tabs">
-                        <li class="active" id="tabDetalhes"><a href="#tab1" data-toggle="tab">Detalhes da OS</a></li>
+                        <li class="active" id="tabDetalhes"><a href="#tab1" data-toggle="tab">Detalhes da demanda</a></li>
                         <li id="tabDesconto"><a href="#tab2" data-toggle="tab">Desconto</a></li>
                         <li id="tabProdutos"><a href="#tab3" data-toggle="tab">Produtos</a></li>
                         <li id="tabServicos"><a href="#tab4" data-toggle="tab">Serviços</a></li>

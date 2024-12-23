@@ -493,7 +493,7 @@
 <div class="span12A" style="margin-left: 0">
     <div class="widget-box0 widbox-blak">
         <div>
-            <h5 class="cardHeader">Ordens de Serviços Em Orçamento.</h5>
+            <h5 class="cardHeader">Ordens de Demandas.</h5>
         </div>
         <div class="widget-content">
             <table class="table table-bordered">
@@ -582,7 +582,7 @@
     
     <div class="widget-box0 widbox-blak">
         <div>
-            <h5 class="cardHeader">Ordens de Serviços Em Aberto</h5>
+            <h5 class="cardHeader">Ordens de Demandas Em Aberto</h5>
         </div>
         <div class="widget-content">
             <table class="table table-bordered">
@@ -672,7 +672,7 @@
 
     <div class="widget-box0 widbox-blak">
         <div>
-            <h5 class="cardHeader">Ordens de Serviços Aprovadas</h5>
+            <h5 class="cardHeader">Ordens de Demandas Aprovadas</h5>
         </div>
         <div class="widget-content">
             <table class="table table-bordered">
@@ -761,7 +761,7 @@
 
     <div class="widget-box0 widbox-blak">
         <div>
-            <h5 class="cardHeader">Ordens de Serviços Finalizadas</h5>
+            <h5 class="cardHeader">Ordens de Demandas Finalizadas</h5>
         </div>
         <div class="widget-content">
             <table class="table table-bordered">
@@ -850,7 +850,7 @@
 
     <div class="widget-box0 widbox-blak">
         <div>
-            <h5 class="cardHeader">Ordens de Serviços Em Andamento e Aguardando Peças</h5>
+            <h5 class="cardHeader">Ordens de Demandas Em Andamento e Aguardando Peças</h5>
         </div>
         <div class="widget-content">
             <table class="table table-bordered">
