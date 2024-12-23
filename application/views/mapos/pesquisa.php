@@ -75,7 +75,7 @@
                             <th>#</th>
                             <th>Nome</th>
                             <th>CPF/CNPJ</th>
-                            <th>Cliente / Fornecedor</th>
+                            <th>Clientes</th>
                             <th></th>
                         </tr>
                         </thead>

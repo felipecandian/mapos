@@ -40,7 +40,7 @@
             </a>
         </li>
     <?php endif ?>
-
+<!-- // Ocutando a opção de produtos 
     <?php if ($this->permission->checkPermission($this->session->userdata('permissao'), 'vProduto')) : ?>
         <li class="card">
             <div class="grid-blak">
@@ -56,7 +56,7 @@
             </a>
         </li>
     <?php endif ?>
-
+    -->
     <?php if ($this->permission->checkPermission($this->session->userdata('permissao'), 'vServico')) : ?>
         <li class="card">
             <div class="grid-blak">
